@@ -1,1 +1,1 @@
-# programacaofuncional
+Programação funcional (Haskell)
